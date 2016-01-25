@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Letterpress in NYC]]></title>
         <description><![CDATA[Letterpress in NYC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/letterpress-in-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 18:35:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 20:31:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/letterpress-in-nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4addcb9-e294-4533-b3bb-40ce0374c1b7.jpg">]]></description>
-            <link>undefined8a3b91bd-947f-4298-ae0b-87a7be097699/index.html</link>
+            <link>https://thegrid.ai/letterpress-in-nyc/8a3b91bd-947f-4298-ae0b-87a7be097699/index.html</link>
             <guid isPermaLink="false">8a3b91bd-947f-4298-ae0b-87a7be097699</guid>
             <pubDate>Mon, 25 Jan 2016 18:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f82b595a-6d67-49d9-bbdf-63d796fb5aac.jpg">]]></description>
+            <link>https://thegrid.ai/letterpress-in-nyc/a44c3b32-1392-456d-a7c9-824340027974/index.html</link>
+            <guid isPermaLink="false">a44c3b32-1392-456d-a7c9-824340027974</guid>
+            <pubDate>Mon, 25 Jan 2016 20:31:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
