@@ -1,0 +1,28 @@
+name: Letterpress in NYC
+favicon: null
+layout_spectrum: 0.025561506394296885
+typography_spectrum: 0.22274649585597217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.998913676245138
+  lightness: 0.9867844444233924
+  saturation: 0.5382282908540219
+  rhythmicContrast: 0.22888597869314253
+purpose: []
